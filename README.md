@@ -1,10 +1,9 @@
-# repo-test1
+# README
 
 > Aquest és el meu primer repositori. Servirà per fer GH i Git .
 
-**Hello World**
-
-Eric
-
-2/10/24
-Dimecres 2 d'octubre de 2024
+## Com utilitzar Git
+- **git status**: per observar el status del Git
+- **git add**: per afegir canvis al *Staging*
+- **git commit**: per enviar els canvis del Staging al *Repositori Local*
+- **git push**: per enviar els canvis del Repositori Local al *Repositori Remot*
