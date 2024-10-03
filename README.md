@@ -22,3 +22,8 @@ git commit -m
 git push
 ```
 > per enviar els canvis del Repositori Local al *Repositori Remot*
+
+```code
+git pull
+```
+> per enviar els canvis del Repositori Remot al Local
